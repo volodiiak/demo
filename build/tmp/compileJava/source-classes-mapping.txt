@@ -1,0 +1,6 @@
+com/example/demo/HelloApplication.java
+ com.example.demo.HelloApplication
+com/example/demo/HelloResource.java
+ com.example.demo.HelloResource
+com/example/demo/HelloServlet.java
+ com.example.demo.HelloServlet
